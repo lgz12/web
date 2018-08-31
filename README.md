@@ -6,5 +6,5 @@
 >>npm i
 
 >运行打包：
->>npm ru build
+>>npm run build
 
